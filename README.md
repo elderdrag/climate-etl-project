@@ -1,6 +1,7 @@
 # climate-etl-project
 
 #Description
+
 Ce projet extrait, transforme et stocke automatiquement les données météorologiques à partir de l'API Open-Meteo.
 
 #Technologie utilisée
